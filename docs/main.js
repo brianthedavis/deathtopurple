@@ -47,13 +47,10 @@ function WordShuffler(holder, opt, newText) {
         mixSpecialCharacters: false,
         needUpdate: true,
         colors: [
-            '#f44336', '#e91e63', '#9c27b0',
-            '#673ab7', '#3f51b5', '#2196f3',
-            '#03a9f4', '#00bcd4', '#009688',
-            '#4caf50', '#8bc34a', '#cddc39',
-            '#ffeb3b', '#ffc107', '#ff9800',
-            '#ff5722', '#795548', '#9e9e9e',
-            '#607d8b'
+            '#f4eafa', '#ddc1f0', '#c798e7',
+            '#b16fdd', '#9a45d3', '#812cba',
+            '#642290', '#481867', '#2b0f3e',
+            '#0e0515'
         ]
     }
 
