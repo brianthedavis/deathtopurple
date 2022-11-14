@@ -7,6 +7,10 @@ body {
     background: #705a70;
     margin: 0 auto;
     max-width: 1080px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 100%;
+    
 }
 
 div.dtp-text {
